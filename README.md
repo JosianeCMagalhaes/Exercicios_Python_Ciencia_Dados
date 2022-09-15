@@ -1,4 +1,4 @@
-# Exercicios Python para Ciencia de Dados
+# Exercicios Python para Ciência de Dados
 
 Podemos usar Python para obter o valor de dados brutos, simplificando a jornada muitas vezes complexa que é transformar dados em informação.
 
